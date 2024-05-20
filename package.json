@@ -1,0 +1,49 @@
+{
+  
+  "publishConfig": {
+  
+    
+  "access": "public"
+  
+  },
+  
+  "name": "@maryamhussain/atm-1",
+  
+  "version": "1.0.2",
+  
+  "description": "This Is A Simple Atm App",
+  
+  "main": "index.js",
+  
+  "type": "module",
+  
+  "bin": "index.js",
+  
+  "scripts": {
+  
+    
+  "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  
+  "author": "Maryam Hussain",
+  
+  "license": "MIT",
+  
+  "dependencies": {
+  
+    
+  "@maryamhussain/atm-1": "^1.0.2",
+  
+    
+  "inquirer": "^9.2.22"
+  
+  },
+  
+  "devDependencies": {
+  
+    
+  "@types/inquirer": "^9.0.7"
+  
+  }
+}
